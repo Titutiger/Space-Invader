@@ -34,5 +34,5 @@ link -  https://titutiger.github.io/Space-Invader/
 After this, you can enter ctrl + shift + F10
 This will run the code and enjoy the game.
 
-For any suggestions and improvements, please contact me or email me – aarin.junagade@gmail.com
+For any suggestions and improvements, please contact me or email me – Titutiger09@gmail.com
 Thank you.
